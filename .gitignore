@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large generated datasets
+data/processed/online_retail_cleaned_v2.csv
+data/processed/online_retail_positive_sales_v2.csv
+data/processed/online_retail_rfm_v2.csv
